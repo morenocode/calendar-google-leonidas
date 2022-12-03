@@ -1,0 +1,15 @@
+.searchPeople {
+  border: transparent;
+  border-radius: 0.25rem;
+  block-size: 2.5rem;
+  inline-size: 12.25rem;
+  background: var(--gray10);
+  background-image: url(../icons/icon-users.svg);
+  background-repeat: no-repeat;
+  background-position: left 1rem center;
+  padding-inline: 2.5rem;
+  font: var(--body1-regular);
+  padding-block: 0.625rem;
+  box-sizing: border-box;
+  outline: none;
+}
